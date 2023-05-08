@@ -1,0 +1,159 @@
+h1 {
+  width: 10%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0 auto;
+  font-family: 'Neucha', cursive;
+  /* color: #66BFBF; */
+  color: #51A0D5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #51A0D5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #51A0D5;
+}
+
+a {
+  color: black;
+}
+
+p {
+  font-weight: normal;
+}
+
+.profile {
+  /* width: 70%;
+  text-align: left; */
+  margin: auto;
+  /* width: 80%; */
+  width: 90%;
+  text-align: left;
+}
+
+.papers {
+  /* width: 70%;
+  text-align: left; */
+  margin: auto;
+  /* width: 80%; */
+  width: 90%;
+  text-align: left;
+}
+
+.papers-title {
+  text-align: left;
+}
+
+.code-img {
+  float: left;
+  margin-right: 10px;
+  width: 2%;
+}
+
+.papers-row {
+  margin: auto;
+  text-align: left;
+}
+
+
+body {
+  margin-top: 50px;
+  text-align: left;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+}
+
+.econ {
+  text-decoration: underline;
+}
+
+.fuji {
+  /* width: 10%; */
+}
+
+.top-container {
+  background-color: #b1bed5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  position: relative;
+  margin: auto;
+  width: 90%;
+  text-align: center;  
+}
+
+.teaching {
+  margin: auto;
+  /* width: 80%; */
+  width: 90%;
+  text-align: left;
+}
+
+.skill-row {
+  /* width: 60%; */
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  margin: auto;
+  /* width: 80%; */
+  width: 90%;
+  text-align: left;
+}
+
+.code-image {
+  float: left;
+  margin-right: 10px;
+  width: 5%;
+}
+
+.code-image-chilies {
+  float: right;
+  margin-left: 10px;
+  width: 5%;
+}
+
+.description {
+  clear;
+}
+
+/* .
+hero-section {
+  background: url("../images/tokyo_skyline.jpg") ;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+*/
+
+/* .hero-section .hero-section-text {
+  color: #fefefe;
+  text-shadow: 1px 1px 2px #0a0a0a;
+} */
