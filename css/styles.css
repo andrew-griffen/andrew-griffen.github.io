@@ -6,21 +6,33 @@ h1 {
   margin: 0 auto;
   font-family: 'Neucha', cursive;
   /* color: #66BFBF; */
-  color: #0B8BEE;
+  color: #245c56;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  color: #0B8BEE;
+  color: #245c56;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #0B8BEE;
+  color: #245c56;
 }
 
 a {
-  color: black;
+  color: #245c56;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  color: #173e3a;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #d7ded8;
+  margin: 20px 0;
 }
 
 p {
@@ -62,7 +74,11 @@ p {
 
 
 body {
-  margin-top: 50px;
+  margin: 50px auto;
+  max-width: 1100px;
+  background-color: #faf9f6;
+  color: #2e3533;
+  line-height: 1.7;
   text-align: left;
   font-family: 'Merriweather Sans', sans-serif;
 }
